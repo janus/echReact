@@ -1,0 +1,13 @@
+{
+ "compilerOptions": {
+  "strict": true,
+  "jsx": "react",
+
+  "lib": ["es6", "dom"],
+  "module":"es6",
+  "moduleResolution": "node"
+  },
+  "exclude": [
+	"node_modules"
+  ]
+}
